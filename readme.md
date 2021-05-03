@@ -29,3 +29,7 @@
     2. GET /reports/<reportID>
 
     	i. This api end point generates the report based on reportID supplied as a parameter
+
+### Documentation:
+
+https://documenter.getpostman.com/view/14909689/TzRNDpKH
